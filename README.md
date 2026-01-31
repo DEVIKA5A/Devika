@@ -1,16 +1,15 @@
- ## #Hi,I'm Devika
+## Hi, I'm Devika
 
- Computer Science Student(Artificial Intelligence And Datascience)
- Learning Python,C Programming ,DBMS and Github
- Interested in Data Analysis 
+Computer Science and Engineering (Artificial Intelligence and Data Science) Student
+Learning Python, C Programming, DBMS and GitHub
+Interested in Data Analysis
 
- ## #Skills
- 
- -Python
- -C Programming
- -DBMS
- -SQL
+## Skills
+- Python
+- DBMS
+- C Programming
+- SQL
 
- ## #Currently Learning
- -Data Science
+## Currently Learning
+- Data Science
  
